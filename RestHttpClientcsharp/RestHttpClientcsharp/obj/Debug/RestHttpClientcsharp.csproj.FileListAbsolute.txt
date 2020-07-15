@@ -1,0 +1,9 @@
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\bin\Debug\RestHttpClientcsharp.exe.config
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\bin\Debug\RestHttpClientcsharp.exe
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\bin\Debug\RestHttpClientcsharp.pdb
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\obj\Debug\RestHttpClientcsharp.csprojAssemblyReference.cache
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\obj\Debug\RestHttpClientcsharp.Properties.Resources.resources
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\obj\Debug\RestHttpClientcsharp.csproj.GenerateResource.cache
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\obj\Debug\RestHttpClientcsharp.csproj.CoreCompileInputs.cache
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\obj\Debug\RestHttpClientcsharp.exe
+C:\Users\erikr\source\repos\RestHttpClientcsharp\RestHttpClientcsharp\obj\Debug\RestHttpClientcsharp.pdb
